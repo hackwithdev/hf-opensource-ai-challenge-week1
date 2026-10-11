@@ -1,0 +1,18 @@
+{
+  "name": "GrowWise — Local AI Gardening Planner",
+  "short_name": "GrowWise",
+  "description": "Mindful local-first AI gardening planner that turns your garden setup into practical plant care routines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#1F422F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
